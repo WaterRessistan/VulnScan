@@ -1,8 +1,6 @@
 # VulnScan 🛡️ 
 **Desarrollado por WaterRessistan**
 
-ko-fi.com/waterressistan
-
 VulnScan es una herramienta avanzada de reconocimiento y auditoría de red diseñada para identificar servicios, detectar versiones vulnerables y mapear automáticamente posibles exploits utilizando la base de datos de Exploit-DB.
 
 > **Nota:** Este proyecto está protegido bajo una licencia **No Comercial**. Queda prohibida su venta o uso para beneficio económico sin autorización.
@@ -59,3 +57,4 @@ python3 VulnScan.py --help
 
 
    
+
