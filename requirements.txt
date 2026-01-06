@@ -1,0 +1,6 @@
+# VulnScan - Python Dependencies
+# Este script utiliza librerías estándar (os, sys, subprocess, etc.)
+# No se requieren paquetes externos de PyPI.
+
+# Requerimiento de sistema:
+python_version>=3.8
